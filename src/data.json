@@ -1,0 +1,284 @@
+[
+    {
+        "name": "Aarav Sharma",
+        "company": "Google",
+        "github": "https://github.com/aaravsharma",
+        "linkedin": "https://www.linkedin.com/in/aaravsharma",
+        "email": "aarav.sharma@gmail.com",
+        "profession": "Full Stack"
+    },
+    {
+        "name": "Vihaan Patel",
+        "company": "Meta",
+        "github": "https://github.com/vihaanpatel",
+        "linkedin": "https://www.linkedin.com/in/vihaanpatel",
+        "email": "vihaan.patel@gmail.com",
+        "profession": "Venture Capitalist"
+    },
+    {
+        "name": "Ananya Singh",
+        "company": "Amazon",
+        "github": "https://github.com/ananyasingh",
+        "linkedin": "https://www.linkedin.com/in/ananyasingh",
+        "email": "ananya.singh@gmail.com",
+        "profession": "AI Engineer"
+    },
+    {
+        "name": "Ishaan Agarwal",
+        "company": "Adobe",
+        "github": "https://github.com/ishaanagarwal",
+        "linkedin": "https://www.linkedin.com/in/ishaanagarwal",
+        "email": "ishaan.agarwal@gmail.com",
+        "profession": "Product Manager"
+    },
+    {
+        "name": "Saanvi Gupta",
+        "company": "Google",
+        "github": "https://github.com/saanvigupta",
+        "linkedin": "https://www.linkedin.com/in/saanvigupta",
+        "email": "saanvi.gupta@gmail.com",
+        "profession": "Full Stack"
+    },
+    {
+        "name": "Rohan Das",
+        "company": "Meta",
+        "github": "https://github.com/rohandas",
+        "linkedin": "https://www.linkedin.com/in/rohandas",
+        "email": "rohan.das@gmail.com",
+        "profession": "App Dev"
+    },
+    {
+        "name": "Diya Roy",
+        "company": "Amazon",
+        "github": "https://github.com/diyaroy",
+        "linkedin": "https://www.linkedin.com/in/diyaroy",
+        "email": "diya.roy@gmail.com",
+        "profession": "GenAI"
+    },
+    {
+        "name": "Arjun Verma",
+        "company": "Adobe",
+        "github": "https://github.com/arjunverma",
+        "linkedin": "https://www.linkedin.com/in/arjunverma",
+        "email": "arjun.verma@gmail.com",
+        "profession": "Full Stack"
+    },
+    {
+        "name": "Aditi Chawla",
+        "company": "Google",
+        "github": "https://github.com/aditichawla",
+        "linkedin": "https://www.linkedin.com/in/aditichawla",
+        "email": "aditi.chawla@gmail.com",
+        "profession": "Product Manager"
+    },
+    {
+        "name": "Kabir Mehta",
+        "company": "Meta",
+        "github": "https://github.com/kabirmehta",
+        "linkedin": "https://www.linkedin.com/in/kabirmehta",
+        "email": "kabir.mehta@gmail.com",
+        "profession": "Venture Capitalist"
+    },
+    {
+        "name": "Meera Nair",
+        "company": "Sequoia Capital",
+        "github": "https://github.com/meeranair",
+        "linkedin": "https://www.linkedin.com/in/meeranair",
+        "email": "meera.nair@outlook.com",
+        "profession": "Venture Capitalist"
+    },
+    {
+        "name": "Ravi Desai",
+        "company": "Accel",
+        "github": "https://github.com/ravidesai",
+        "linkedin": "https://www.linkedin.com/in/ravidesai",
+        "email": "ravi.desai@outlook.com",
+        "profession": "Venture Capitalist"
+    },
+    {
+        "name": "Neha Bhatia",
+        "company": "Benchmark",
+        "github": "https://github.com/nehabhatia",
+        "linkedin": "https://www.linkedin.com/in/nehabhatia",
+        "email": "neha.bhatia@gmail.com",
+        "profession": "Venture Capitalist"
+    },
+    {
+        "name": "Arjun Kumar",
+        "company": "Andreessen Horowitz",
+        "github": "https://github.com/arjunkumar",
+        "linkedin": "https://www.linkedin.com/in/arjunkumar",
+        "email": "arjun.kumar@outlook.com",
+        "profession": "Venture Capitalist"
+    },
+    {
+        "name": "Priya Sinha",
+        "company": "Lightspeed Venture Partners",
+        "github": "https://github.com/priyasinha",
+        "linkedin": "https://www.linkedin.com/in/priyasinha",
+        "email": "priya.sinha@gmail.com",
+        "profession": "Venture Capitalist"
+    },
+        {
+            "name": "Nikhil Rao",
+            "company": "Sequoia",
+            "github": "https://github.com/nikhilrao",
+            "linkedin": "https://www.linkedin.com/in/nikhilrao",
+            "email": "nikhil.rao@gmail.com",
+            "profession": "Venture Capitalist"
+        },
+        {
+            "name": "Meera Kapoor",
+            "company": "BlackRock",
+            "github": "https://github.com/meerakapoor",
+            "linkedin": "https://www.linkedin.com/in/meerakapoor",
+            "email": "meera.kapoor@gmail.com",
+            "profession": "Venture Capitalist"
+        },
+        {
+            "name": "Rajiv Nair",
+            "company": "Vanguard",
+            "github": "https://github.com/rajivnair",
+            "linkedin": "https://www.linkedin.com/in/rajivnair",
+            "email": "rajiv.nair@gmail.com",
+            "profession": "Venture Capitalist"
+        },
+        {
+            "name": "Priya Desai",
+            "company": "Microsoft",
+            "github": "https://github.com/priyadesai",
+            "linkedin": "https://www.linkedin.com/in/priyadesai",
+            "email": "priya.desai@gmail.com",
+            "profession": "Full Stack Developer"
+        },
+        {
+            "name": "Amit Malhotra",
+            "company": "Apple",
+            "github": "https://github.com/amitmalhotra",
+            "linkedin": "https://www.linkedin.com/in/amitmalhotra",
+            "email": "amit.malhotra@gmail.com",
+            "profession": "AI Specialist"
+        },
+        {
+            "name": "Neha Sinha",
+            "company": "Netflix",
+            "github": "https://github.com/nehasinha",
+            "linkedin": "https://www.linkedin.com/in/nehasinha",
+            "email": "neha.sinha@gmail.com",
+            "profession": "Product Manager"
+        },
+        {
+            "name": "Arjun Shah",
+            "company": "SpaceX",
+            "github": "https://github.com/arjunshah",
+            "linkedin": "https://www.linkedin.com/in/arjunshah",
+            "email": "arjun.shah@gmail.com",
+            "profession": "App Developer"
+        },
+        {
+            "name": "Kavya Menon",
+            "company": "Tesla",
+            "github": "https://github.com/kavyamenon",
+            "linkedin": "https://www.linkedin.com/in/kavyamenon",
+            "email": "kavya.menon@gmail.com",
+            "profession": "GenAI Engineer"
+        },
+        {
+            "name": "Rohit Kumar",
+            "company": "Sequoia",
+            "github": "https://github.com/rohitkumar",
+            "linkedin": "https://www.linkedin.com/in/rohitkumar",
+            "email": "rohit.kumar@gmail.com",
+            "profession": "Venture Capitalist"
+        },
+        {
+            "name": "Anjali Jain",
+            "company": "BlackRock",
+            "github": "https://github.com/anjalijain",
+            "linkedin": "https://www.linkedin.com/in/anjalijain",
+            "email": "anjali.jain@gmail.com",
+            "profession": "Venture Capitalist"
+        },
+        {
+            "name": "Siddharth Bhatt",
+            "company": "Vanguard",
+            "github": "https://github.com/siddharthbhatt",
+            "linkedin": "https://www.linkedin.com/in/siddharthbhatt",
+            "email": "siddharth.bhatt@gmail.com",
+            "profession": "Venture Capitalist"
+        },
+        {
+            "name": "Tara Reddy",
+            "company": "Google",
+            "github": "https://github.com/tarareddy",
+            "linkedin": "https://www.linkedin.com/in/tarareddy",
+            "email": "tara.reddy@gmail.com",
+            "profession": "Full Stack Developer"
+        },
+        {
+            "name": "Vikram Singh",
+            "company": "Meta",
+            "github": "https://github.com/vikramsingh",
+            "linkedin": "https://www.linkedin.com/in/vikramsingh",
+            "email": "vikram.singh@gmail.com",
+            "profession": "AI Specialist"
+        },
+        {
+            "name": "Nisha Patel",
+            "company": "Amazon",
+            "github": "https://github.com/nishapatel",
+            "linkedin": "https://www.linkedin.com/in/nishapatel",
+            "email": "nisha.patel@gmail.com",
+            "profession": "Product Manager"
+        },
+        {
+            "name": "Rajesh Verma",
+            "company": "Adobe",
+            "github": "https://github.com/rajeshverma",
+            "linkedin": "https://www.linkedin.com/in/rajeshverma",
+            "email": "rajesh.verma@gmail.com",
+            "profession": "App Developer"
+        },
+        {
+            "name": "Simran Kaur",
+            "company": "Netflix",
+            "github": "https://github.com/simrankaur",
+            "linkedin": "https://www.linkedin.com/in/simrankaur",
+            "email": "simran.kaur@gmail.com",
+            "profession": "GenAI Engineer"
+        },
+        {
+            "name": "Ankit Gupta",
+            "company": "SpaceX",
+            "github": "https://github.com/ankitgupta",
+            "linkedin": "https://www.linkedin.com/in/ankitgupta",
+            "email": "ankit.gupta@gmail.com",
+            "profession": "Full Stack Developer"
+        },
+        {
+            "name": "Pooja Sharma",
+            "company": "Tesla",
+            "github": "https://github.com/poojasharma",
+            "linkedin": "https://www.linkedin.com/in/poojasharma",
+            "email": "pooja.sharma@gmail.com",
+            "profession": "AI Specialist"
+        },
+        {
+            "name": "Aakash Jain",
+            "company": "Apple",
+            "github": "https://github.com/aakashjain",
+            "linkedin": "https://www.linkedin.com/in/aakashjain",
+            "email": "aakash.jain@gmail.com",
+            "profession": "Product Manager"
+        },
+        {
+            "name": "Riya Choudhury",
+            "company": "Microsoft",
+            "github": "https://github.com/riyachoudhury",
+            "linkedin": "https://www.linkedin.com/in/riyachoudhury",
+            "email": "riya.choudhury@gmail.com",
+            "profession": "App Developer"
+        }
+    
+    
+]
