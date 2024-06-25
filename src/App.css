@@ -1,95 +1,3 @@
-/* body {
-  font-family: Arial, sans-serif;
-  background-color: #121212;
-  color: #ffffff;
-  margin: 0;
-  padding: 0;
-}
-
-.App {
-  text-align: center;
-  padding: 20px;
-}
-
-h1 {
-  color: #61dafb;
-}
-
-.filters {
-  margin-bottom: 20px;
-}
-
-.search-bar, .filter-select {
-  padding: 10px;
-  margin: 10px;
-  border: none;
-  border-radius: 5px;
-  outline: none;
-}
-
-.search-bar {
-  width: 200px;
-}
-
-.filter-select {
-  width: 180px;
-}
-
-.attendee-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-}
-
-.attendee-item {
-  background-color: #1f1f1f;
-  padding: 20px;
-  border-radius: 10px;
-  width: 250px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  text-align: left;
-  transition: transform 0.2s;
-}
-
-.attendee-item:hover {
-  transform: scale(1.05);
-}
-
-.avatar {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-  margin-bottom: 10px;
-}
-
-.attendee-details {
-  text-align: center;
-}
-
-.attendee-details h2 {
-  font-size: 1.5em;
-  margin: 10px 0;
-}
-
-.attendee-details p {
-  margin: 5px 0;
-}
-
-.links {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-top: 10px;
-}
-
-.links img {
-  width: 30px;
-  height: 30px;
-  filter: invert(100%);
-} */
-
-
 body {
   font-family: Arial, sans-serif;
   background-color: #121212;
@@ -126,6 +34,7 @@ h1 {
   display: flex;
   justify-content: center;
   gap: 20px;
+  flex-wrap: wrap;
 }
 
 .search-bar, .filter-select {
@@ -198,4 +107,29 @@ h1 {
   width: 30px;
   height: 30px;
   filter: invert(100%);
+}
+
+/* Media Queries for Mobile Responsiveness */
+@media (max-width: 600px) {
+  .filters {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .search-bar, .filter-select {
+    width: 100%;
+    margin: 5px 0;
+  }
+
+  .attendee-item {
+    width: 90%;
+  }
+
+  .header {
+    flex-direction: column;
+  }
+
+  .logo {
+    width: 100px;
+  }
 }
